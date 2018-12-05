@@ -5,7 +5,7 @@ Desktop application to match URLs against phishing black-lists.
 ## Getting Started
 
 * Download or clone
-* create virtualenv `virtualenv env` (optional)
+* create virtual env `virtualenv env` (optional)  
   activate virtualenv `\env\Scripts\activate`
 * `cd dphishbox`
 * `pip install -r requirements.txt`
@@ -13,7 +13,7 @@ Desktop application to match URLs against phishing black-lists.
 
 ## Running the tests
 
-`pip install pytest`
+`pip install pytest`  
 `pytest -v`
 
 ## License
